@@ -1,0 +1,61 @@
+rank,title,id,marked_as_amazon,is_ad,rating,review_count
+0,"365 by Whole Foods Market, Fluoride Cavity Fighting and Whitening Toothpaste, 5.5 Ounce",B07NR8NBJ5,True,False,4.3,765
+1,"Colgate Total Plaque Pro Release Whitening Toothpaste, 1 Pack, 3.0 Oz Tube",B0B9G51RWN,False,True,4.5,1270
+2,"Tom's of Maine Whole Care Natural Toothpaste with Fluoride, Spearmint, 4 oz. 3-Pack (Packaging May Vary)",B07P7QRCWB,False,True,4.7,10499
+3,"Colgate Optic White Advanced Teeth Whitening Toothpaste, 2% Hydrogen Peroxide Toothpaste, Sparkling White, 3.2 Oz, 3 Pack",B082F1QH7S,False,True,4.7,40374
+4,"Crest + Scope Complete Whitening Toothpaste, Minty Fresh, 5.4 Oz (Pack of 3)",B005PLQIQ4,False,False,4.8,39618
+5,"Crest 3D White Toothpaste Radiant Mint, 3.8 Oz (Pack of 3)",B01KZOTRG8,False,False,4.8,73998
+6,"Colgate Baking Soda and Peroxide Whitening Toothpaste, Frosty Mint,6 Ounce (Pack of 6)",B01BNEUV9Q,False,False,4.8,9609
+7,"Colgate Baking Soda and Peroxide Toothpaste, Whitening Brisk Mint Flavor, Whitens Teeth, Fights Cavities and Removes Surface Stains for Whiter Teeth, 6 Oz Tube, 2 Pack",B01BNHREXE,False,False,4.7,55423
+8,"Colgate Max Fresh Whitening Toothpaste with Mini Strips, Clean Mint Toothpaste for Bad Breath, Helps Fight Cavities, Whitens Teeth, and Freshens Breath, 4 Pack, 6.3 Oz Tubes",B0BLX8VSCH,False,False,4.8,1358
+9,"Colgate Cavity Protection Toothpaste with Fluoride, Great Regular Flavor, 6 Ounce (Pack of 6)",B01BNEWDFQ,False,False,4.8,59046
+10,"365 by Whole Foods Market, Fluoride-Free Tartar Control and Whitening Toothpaste, 5.5 Ounce",B07NR6QPC4,True,False,4.5,577
+11,Dr. Squatch Teeth Whitening Toothpaste Kit - Day and Night Flouride Free Natural Toothpaste (1 Citrus Mint + 1 Sooth Spearmint Tooth Paste) 4.7 oz Tubes,B08MQ26DKC,False,True,4.6,1327
+12,"Native Toothpaste Made from Naturally-Derived Cleaners and Simple Ingredients That Safely Whitens Teeth, 4.1 oz, Charcoal Fluoride Free - 1 Count",B08VQLTM6X,False,True,4.6,1641
+13,"Boka Fluoride Free Toothpaste - Nano Hydroxyapatite, Remineralizing, Sensitive Teeth, Whitening - Dentist Recommended for Adult & Kids Oral Care - Ela Mint Natural Flavor, 4oz 1 Pk - US Manufactured",B083JHCCV2,False,True,4.6,23815
+14,"Colgate Optic White Advanced Teeth Whitening Toothpaste, 2% Hydrogen Peroxide Toothpaste, Sparkling White, 3.2 Oz, 3 Pack",B082F1QH7S,False,False,4.7,40374
+15,Crest Pro-Health Clean Mint Toothpaste (4.3oz) Twin Pack,B0BLJ798GT,False,False,4.7,195
+16,"Sensodyne Pronamel Fresh Breath Enamel Toothpaste for Sensitive Teeth and Cavity Protection, Sensitivity Protection, Fresh Wave - 4 Ounces x 4",B095Z6SVNB,False,False,4.8,5407
+17,"Sensodyne Repair and Protect Whitening Toothpaste, Toothpaste for Sensitive Teeth and Cavity Prevention, 3.4 oz (Pack of 2)",B07C1ZQ5ZY,False,False,4.7,37225
+18,"Crest 3D White Brilliance Purple Teeth Whitening Toothpaste - Pack of 3, 3.5 oz Tubes - Anticavity Fluoride Toothpaste -100% More Surface Stain Removal - 24 Hour Active Stain Prevention",B0BP5L1Y2V,False,True,4.4,874
+19,"Tom's of Maine Fluoride-Free Antiplaque & Whitening Natural Toothpaste, Peppermint, 5.5 oz. 2-Pack (Packaging May Vary)",B00JUJ1E0W,False,True,4.7,46713
+20,"Sensodyne Pronamel Fresh Breath Enamel Toothpaste for Sensitive Teeth and Cavity Protection, Sensitivity Protection, Fresh Wave - 4 Ounces x 4",B095Z6SVNB,False,True,4.8,5407
+21,"Arm & Hammer Advance White Toothpaste, Clean Mint Flavor, Stain Defense Technology, 6.0oz (4-Pack)",B09VK1RKM8,False,True,4.7,2857
+22,"Crest 3D White Advanced Glamorous White Teeth Whitening Toothpaste, 3.8 oz, Pack of 3",B0BP6CLNCL,False,False,4.8,10850
+23,"Crest Pro-Health Advanced Antibacterial Protection Toothpaste, Mint Burst, 5 Oz (Pack of 4)",B08PWZCP1F,False,False,4.7,7454
+24,"Arm & Hammer Advance White Toothpaste, Clean Mint Flavor, Stain Defense Technology, 6.0oz (4-Pack)",B09VK1RKM8,False,False,4.7,2857
+25,"Sensodyne Repair and Protect Whitening Toothpaste, Toothpaste for Sensitive Teeth and Cavity Prevention, 3.4 oz (Pack of 4)",B095Z57SV9,False,False,4.7,3613
+26,"Sensodyne Pronamel Fresh Breath Enamel Toothpaste for Sensitive Teeth, to Reharden and Strengthen Enamel, Fresh Wave - 4 Ounces (Pack of 2)",B01LX217F9,False,False,4.7,30711
+27,"Tom's of Maine Fluoride-Free Antiplaque & Whitening Natural Toothpaste, Peppermint, 5.5 oz. 2-Pack (Packaging May Vary)",B00JUJ1E0W,False,False,4.7,46713
+28,"Colgate Optic White Stain Fighter Whitening Toothpaste Gel, Fresh Mint Flavor Gel Toothpaste, Safely Removes Surface Stains, Enamel-Safe for Daily Use, Whitening Toothpaste with Fluoride, 4.2 Oz Tube",B07B2BP1G8,False,False,4.7,473
+29,"Crest Complete Multi-Benefit Whitening + Scope Minty Fresh Flavor Toothpaste 2.7 Oz, Pack of 3",B00N47QLDQ,False,False,4.6,3724
+30,"Colgate Total Toothpaste, Clean Mint, 9.6 Ounce (2-Pack)",B07L5H35RR,False,False,4.7,2968
+31,"Crest 3D White Whitening Therapy Charcoal Deep Clean Fluoride Toothpaste, Invigorating Mint, 3.5 Ounce, Pack of 3",B0BLJ5TNWZ,False,False,4.7,23431
+32,"Crest Pro-Health Densify Toothpaste Daily Protection with Fluoride for Anticavity and Sensitive Teeth, 4.1oz (Pack of 3)",B09KP41V9K,False,False,4.7,2236
+33,"Crest 3D White Stain Eraser Teeth Whitening Toothpaste, Polishing Mint, 3.1 oz (Pack of 4)",B0BP64Q4GV,False,False,4.7,1009
+34,"Crest Complete Whitening + Scope, Long Lasting Mint Toothpaste, Triple Pack (3 Count of 5.4 oz Tubes), 16.2 oz",B07MGC24KH,False,False,4.8,4767
+35,"Colgate Max Fresh Liquid Toothpaste with Mini Breath Strips, Cool Mint, 4.6 oz (Packaging May Vary)",B0014CV5MA,False,False,4.7,4161
+36,"Sensodyne Complete Protection Sensitive Toothpaste For Gingivitis, Sensitive Teeth Treatment, Extra Fresh - 3.4 Ounces (Pack of 2)",B07C1ZWH94,False,False,4.8,12292
+37,Marvis Whitening Mint Toothpaste,B000MEKG30,False,False,4.6,5948
+38,Colgate Total Whitening Toothpaste Gel - 4.8 ounce (4 Pack),B07JHV6LS2,False,False,4.8,13422
+39,"Parodontax Teeth Whitening Toothpaste To Help Bleeding Gums, Gum Toothpaste For Gum Health, 3.4 Oz x 3",B0788C493C,False,False,4.7,11943
+40,"Aquafresh Cavity Protection Fluoride Toothpaste, Cool Mint, 5.6 ounce",B00KS6X5OO,False,False,4.7,9066
+41,"Sensodyne Pronamel Intensive Enamel Repair Toothpaste for Sensitive Teeth, to Reharden and Strengthen Enamel, Extra Fresh - 3.4 Ounces (Pack of 3)",B07SG3Y66Y,False,False,4.7,44849
+42,"Lumineux Teeth Whitening Toothpaste - Natural & Enamel Safe for Sensitive & Whiter Teeth - Certified Non-Toxic, Fluoride Free, No Alcohol, Artificial Colors, SLS Free & Dentist Formulated",B01GHFBKKA,False,False,4.2,17592
+43,"Crest 3D White Brilliance Teeth Whitening Toothpaste, Vibrant Peppermint, 3.5 oz, Pack of 3",B0BLJ5KQ4N,False,False,4.8,1017
+44,Crest Pro-Health Whitening Gel Toothpaste (4.3oz),B0BQ1M98FB,False,False,4.6,91
+45,"Colgate 2 in 1 Toothpaste Mouthwash Whitening 4.6 Tubes, Icy Blast, 27.6 Oz, Pack of 6",B001ET72V6,False,False,4.8,852
+46,"ARM & HAMMER Advance White Baking Soda & Peroxide Toothpaste, Extreme Whitening 4.3 oz",B004Y4UGFC,False,False,4.7,2539
+47,"Dr. Sheffield’s Certified Natural Toothpaste (Extra-Whitening) - Great Tasting, Fluoride Free Toothpaste/Freshen Your Breath, Whiten Your Teeth, Reduce Plaque (2-Pack)",B07NGVHSPN,False,False,4.5,10853
+48,"Tom's of Maine Whole Care Natural Toothpaste with Fluoride, Cinnamon Clove, 4.0 oz. 3-Pack",B07P6LR9ZD,False,False,4.7,10499
+49,"Sensodyne Fresh Mint Sensitive Toothpaste, ADA Accepted Toothpaste for Cavity Prevention and Sensitive Teeth Treatment - 4 Ounces (Pack of 2)",B00H88H4Q0,False,False,4.8,14566
+50,"Sensodyne Sensitivity & Gum Whitening Toothpaste, Toothpaste for Sensitive Teeth & Gum Problems, 3.4 Ounces (Pack of 3)",B084ZJ6541,False,False,4.7,9691
+51,"ARM & Hammer PeroxiCare Tartar Control Toothpaste Baking Soda & Peroxide, Fresh Mint 6 oz (Pack of 2)",B082DCGWM1,False,False,4.7,706
+52,"Boka Fluoride Free Toothpaste - Nano Hydroxyapatite, Remineralizing, Sensitive Teeth, Whitening - Dentist Recommended for Adult & Kids Oral Care - Ela Mint Natural Flavor, 4oz 1 Pk - US Manufactured",B083JHCCV2,False,False,4.6,23815
+53,"Hello Antiplaque Whitening Toothpaste, Fluoride Free Toothpaste for Teeth Whitening with Natural Peppermint Flavor and Tea Tree Oil, Peroxide Free, Gluten Free, SLS Free, 3 Pack, 4.7 OZ Tubes",B09P44Q558,False,False,4.8,3472
+54,"Sensodyne Sensitivity & Gum Sensitive Toothpaste for Gingivitis, Sensitive Teeth Treatment, Clean & Fresh - 3.4 oz (Pack of 4)",B095Z5PKDJ,False,False,4.8,4080
+55,"TheraBreath Fresh Breath Dentist Formulated 24-Hour Toothpaste, Mild Mint, 4 Ounce (Pack of 2)",B001ET7G9E,False,False,4.3,6711
+56,"Himalaya Botanique Whitening Complete Care Toothpaste, Teeth Whitening, Fights Plaque, Fluoride Free, No Artificial Flavors, SLS Free, Cruelty Free, Foaming, Simply Mint Flavor, 5.29 Oz, 2 Pack",B07HHBZXSF,False,False,4.7,2739
+57,Opalescence Whitening Toothpaste - Fluoride Oral Care - 4.7 Oz - Cool Mint - Pack of 1,B002JAI47K,False,False,4.5,8024
+58,"Crest Pro-Health Gum and Enamel Repair Toothpaste, Intensive Clean, 3.7 oz",B0BQ1Q4D4R,False,False,4.8,261
+59,"Arm & Hammer Peroxicare Toothpaste, Clean Mint Flavor, Improves Gum Health, 6.0oz (4-Pack)",B09VK154VZ,False,False,4.7,16578
